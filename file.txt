@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-changes done to the master branch 
-changes done 
+New line is written. Previous data is erased.
 =======
 
 >>>>>>> dev
