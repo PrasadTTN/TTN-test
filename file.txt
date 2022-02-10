@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 changes done to the master branch 
 changes done 
+=======
+
+>>>>>>> dev
 
