@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-New line is written. Previous data is erased.
+New line is written.
 =======
 
 >>>>>>> dev
